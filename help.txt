@@ -5,7 +5,7 @@
     Water beats Fire 🔥 → 🌊
     Fire beats Earth 🌱 → 🔥
     Earth beats Water 🌊 → 🌱
-- Every round, each player gains +1 Energy.
+
 - Available Actions:
 1. Normal Attack       - Cost: 0 energy
    → Deals 1 damage.
@@ -20,3 +20,6 @@
 5. Reflect             - Cost: 3 energy
    → Reflects all incoming damage back to your opponent. No damage taken.
 
+- Every round, each player gains +1 Energy.
+
+- Win, loss, and draw counts are tracked throughout gameplay. Players can view their stats at any time.
