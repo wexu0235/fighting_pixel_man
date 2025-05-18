@@ -1,3 +1,4 @@
+# execute this file to run the game
 # main.py
 from player import Player
 from game import start_battle
