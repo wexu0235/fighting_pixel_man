@@ -1,0 +1,22 @@
+📜 Game Rules
+ 
+- Each player starts with 10 Health Points (HP) and 10 Energy.
+- You choose one of three elements: Water, Fire, or Earth.
+    Water beats Fire 🔥 → 🌊
+    Fire beats Earth 🌱 → 🔥
+    Earth beats Water 🌊 → 🌱
+- Every round, each player gains +1 Energy.
+- Available Actions:
+1. Normal Attack       - Cost: 0 energy
+   → Deals 1 damage.
+2. Element Attack      - Cost: 2 energy
+   → Deals 2 damage if your element beats your opponent.
+   → Deals 1 damage if your element is beaten by the opponent.
+   → Deals 1 damage otherwise.
+3. Special Attack      - Cost: 5 energy
+   → Always deals 4 damage. Ignores elemental advantage.
+4. Defend              - Cost: 2 energy
+   → Blocks 1 damage. If your element is disadvantaged, blocks 2.
+5. Reflect             - Cost: 3 energy
+   → Reflects all incoming damage back to your opponent. No damage taken.
+
