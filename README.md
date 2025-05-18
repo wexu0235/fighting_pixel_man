@@ -1,7 +1,7 @@
 # fighting_pixel_man
 A simple Python-based terminal fighting game with strategic elemental combat.
 · Project Overview
-Fighting Pixel Man is a turn-based pixel-style combat game where players and the PC face off using a range of elemental skills and tactics. Players choose from three classic elements—Water, Fire, and Earth—and engage in strategic battles involving attack, defense, and reflection mechanics. With a blend of ASCII art animations, simple inputs, and layered game logic, this project brings text-based combat to life.
+Fighting Pixel Man is a turn-based pixel-style combat game where players and the PC face off using a range of elemental skills and tactics. Players choose from three classic elements—Water, Fire, and Earth—and engage in strategic battles involving attack, defense, and reflection mechanics. With a blend of ASCII art animations, simple inputs, and layered game logic.
 
 ·  Key Features
 Players choose Water, Fire, or Earth as their attribute. Each element counters another (Water beats Fire, Fire beats Earth, Earth beats Water), When elemental advantage applies, element attacks deal bonus damage, and defend actions block more damage if the player is at a disadvantage.
